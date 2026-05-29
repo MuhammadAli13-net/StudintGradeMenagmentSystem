@@ -46,3 +46,5 @@ hisoblash va eng yaxshi talabalarni aniqlash mumkin.
 
 ---
 
+
+
