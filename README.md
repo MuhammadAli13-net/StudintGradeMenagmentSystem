@@ -15,7 +15,7 @@ hisoblash va eng yaxshi talabalarni aniqlash mumkin.
 - ✅ Eng yaxshi talabani topish
 - ✅ Failed studentlar
 - ✅ Talaba qidirish
-
+![bu yerda gif bor](/StudintGradeMenagmentSystem/Анимация.gif)
 ---
 
 ## 🧠 Ishlatilgan mavzular
