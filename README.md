@@ -46,6 +46,3 @@ hisoblash va eng yaxshi talabalarni aniqlash mumkin.
 
 ---
 
-## 👨‍💻AutHor
-
-Asilbek Hasanov | 2026
